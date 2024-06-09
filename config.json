@@ -1,14 +1,16 @@
 {
     "button":[
-        "z","x","","c","v",
-        "e","q","o","e","u",
-        "-","=","","f","h"
+        "z","","","c","v",
+        "e","q","o","e","page_up",
+        "page_down","up","down","left","right"
     ],
     "axis":[
-        ["a","d"],
-        ["w","s"],
-        ["j","l"],
-        ["i","k"]
+        ["", ""],
+        ["", ""],
+        ["", ""],
+        ["", ""],
+        ["page_up", "page_up"],
+        ["page_down", "page_down"]
     ],
     "hat":[
         ["left","right"],
